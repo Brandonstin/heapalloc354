@@ -13,7 +13,7 @@
 //                   fully acknowledge and credit all sources of help,
 //                   other than Instructors and TAs.
 //
-// Persons:          Lily Biro lebiro@wisc.edu Helped me figure out how to use gdb, and also gave ideas on how to test.
+// Persons:          
 //
 //
 // Online sources:   https://www.youtube.com/watch?v=UTii4dyhR5c Explanation on some heap allocating to get a better understanding.
